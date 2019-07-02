@@ -14,8 +14,8 @@
 
 - Iterative tree traversal {pre, post, level, in}order
 - Morris traversal of a tree
-- Depth first search
-- Breadth first search
+- Depth first search variations
+- Breadth first search variations
 - Bidirectional search
 - Dijkstra
 - Prim's
